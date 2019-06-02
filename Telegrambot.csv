@@ -1,0 +1,24 @@
+Keyword,Bot Reply
+"Hey, hi, hello, សួស្តី, ហាយ","Hi ""user name , I'm here to assist you.
+ Feel free ask me anything, Boss :)"
+change from **about** to **About KOOMPI**,add 2 images and https://www.koompi.com/
+"install version 2, kramaos version 2, kramaos v2
+តម្លើង version 2, v.2, តម្លើង version ថ្មី, ","https://www.youtube.com/watch?v=1NZ4XcFevpA&t=303s 
+https://youtu.be/lWTqxsvEehw"
+"khmer font, khmer keyboard, keybaord,
+ ក្តារចុចខ្មែរ, ក្តារចុច",https://www.youtube.com/watch?v=QDWwVHfoByw
+"Chinese languge, chinese keybaord","Open **konsole** then type»» 
+`sudo pacman -S adobe-source-han-sans-cn-fonts`"
+"how to unzip, unzip","Open **konsole** then type»» 
+pi -i archiver"
+"screenshot, record screen","Open **konsole** then type»» 
+`pi -i spectacle`"
+"want to buy koompi, ចង់ទិញគម្ពី, ទិញគម្ពី",https://www.koompi.com/retailers
+bluetooth,"Open **konsole**
+`sudo pacman -Sy blueman`
+`sudo systemctl restart bluetooth`
+`sudo systemctl status bluetooth`
+Restart your KOOMPI"
+"ថតវីដេអូ , how to record video","Open **konsole** then type»» 
+`pi -i obs-studio`"
+"page number, លេខទំព័រ",https://www.youtube.com/watch?v=vTXBkllFD2k&t=4s
